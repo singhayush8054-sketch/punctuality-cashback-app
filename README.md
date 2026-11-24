@@ -1,2 +1,3 @@
-# punctuality-cashback-app
-App to reward punctual bus riders with cashback.
+# Punctuality & Cashback Challenge
+
+App to reward punctual bus riders with cashback!
